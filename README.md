@@ -9,9 +9,9 @@ Este script fue diseñado para la realización del ETL en las estaciones convenc
     matplotlib.pyplot
   
   
-  ## Estructura de los datos
+  # Estructura de los datos
   
-  #Data Historica
+  ##Data Historica
 
 |  Nombre dato      | Descripción                   |
 |-------------------|-------------------------------|
@@ -55,3 +55,5 @@ Este script fue diseñado para la realización del ETL en las estaciones convenc
 |MAX_presion_atmosferica          ||
 |MIN_temp_suelo       ||
 |MAX_temp_suelo         ||
+
+##Data Preliminar
