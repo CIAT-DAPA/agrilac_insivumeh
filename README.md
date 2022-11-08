@@ -11,7 +11,7 @@ Este script fue diseñado para la realización del ETL en las estaciones convenc
   
   # Estructura de los datos
   
-  ##Data Historica
+  ## Data Historica
 
 |  Nombre dato      | Descripción                   |
 |-------------------|-------------------------------|
@@ -56,4 +56,4 @@ Este script fue diseñado para la realización del ETL en las estaciones convenc
 |MIN_temp_suelo       ||
 |MAX_temp_suelo         ||
 
-##Data Preliminar
+## Data Preliminar
