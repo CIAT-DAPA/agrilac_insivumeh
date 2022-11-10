@@ -57,3 +57,21 @@ Este script fue diseñado para la realización del ETL en las estaciones convenc
 |MAX_temp_suelo         ||
 
 ## Data Preliminar
+
+|  Nombre dato      | Descripción                   |
+|-------------------|-------------------------------|
+|TMAX	              |           |
+|TMIN            ||
+|TMED      ||
+|Estacion          ||
+|ID ESTACIONES  ||
+|NUBOSIDAD     ||
+|DIR. VIENTO    ||
+|HUMEDAD REL.	   ||
+|BRILLO SOLAR	  ||
+|RADIACION	   ||
+|EVA. PICHE   ||
+|EVA. TANQUE  ||
+|PRESION ATM.  ||
+|rango_min	  ||
+|rango_max  ||
